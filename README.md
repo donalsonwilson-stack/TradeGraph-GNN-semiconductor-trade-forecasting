@@ -12,6 +12,7 @@ It was created to ensure the reproducibility of the experiments presented in the
 - Salma LICHI
 - Chaimae CHOUAA
 - Abdellah AZMANI
+- Mohamed KOUNAIDI
 
 ## Affiliation
 
