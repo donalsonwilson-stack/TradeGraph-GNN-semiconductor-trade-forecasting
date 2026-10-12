@@ -38,4 +38,4 @@ If you use this repository, please cite the corresponding research article.
 
 ---
 
-© 2026 Donalson WILSON et al.
+© D. Wilson, S. Liichi, C. Chouaa, A. Azmani, and M. Kounaidi, “TradeGraph: learning global semiconductor market dynamics from international trade networks using hybrid graph neural networks,” Int. J. Advance Soft Compu. Appl., vol. 18, no. 3, pp. 492–510, 2026, doi: https://doi.org/10.15849/ijasca.176.
