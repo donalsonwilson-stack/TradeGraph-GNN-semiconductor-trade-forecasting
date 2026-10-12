@@ -9,7 +9,7 @@ It was created to ensure the reproducibility of the experiments presented in the
 ## Authors
 
 - Donalson WILSON
-- Salma LICHI
+- Salma LIICHI
 - Chaimae CHOUAA
 - Abdellah AZMANI
 - Mohamed KOUNAIDI
@@ -34,8 +34,14 @@ This work uses the **BACI International Trade Database (202601 release)** develo
 
 ## Citation
 
-If you use this repository, please cite the corresponding research article.
+If you use this repository, please cite the corresponding research article:
+
+D. Wilson, S. Liichi, C. Chouaa, A. Azmani, and M. Kounaidi, “TradeGraph: learning global semiconductor market dynamics from international trade networks using hybrid graph neural networks,” Int. J. Advance Soft Compu. Appl., vol. 18, no. 3, pp. 492–510, 2026, doi: https://doi.org/10.15849/ijasca.176.
+
+## License
+
+This repository is distributed under the MIT License. See the LICENSE file for details.
 
 ---
 
-© D. Wilson, S. Liichi, C. Chouaa, A. Azmani, and M. Kounaidi, “TradeGraph: learning global semiconductor market dynamics from international trade networks using hybrid graph neural networks,” Int. J. Advance Soft Compu. Appl., vol. 18, no. 3, pp. 492–510, 2026, doi: https://doi.org/10.15849/ijasca.176.
+Copyright © 2026 D. Wilson, S. Liichi, C. Chouaa, A. Azmani, and M. Kounaidi.
